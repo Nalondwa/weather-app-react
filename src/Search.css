@@ -1,0 +1,14 @@
+.list {
+    max-width: 275px;
+    margin: 20px auto;
+    text-align: start;
+  }
+  
+  .description {
+    text-transform: capitalize;
+  }
+  
+  .icon {
+    list-style: none;
+  }
+  
